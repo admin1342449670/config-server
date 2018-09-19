@@ -20,5 +20,5 @@ product:
 env:
  dev2
 girl:
- name: zhaoqun&admin
- age: 32
+ name: zhaoqun
+ age: 31
